@@ -1,7 +1,4 @@
 # Prabhat Bokka — Portfolio
-
-This project recreates the layout and interaction pattern of the original `Harshpotekar/harsh-portfolio` template, customized with Prabhat's known details. It preserves the main section structure: Home, About, Education, Learning, Skills, Projects, Achievements, Contact, and Footer.
-
 ## Run locally
 - Extract the ZIP.
 - Open `index.html` in a browser, or use VS Code Live Server.
